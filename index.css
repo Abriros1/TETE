@@ -1,0 +1,16 @@
+/* index.css — placeholder para evitar 404 referenciado no index.html
+   Contém estilos mínimos e reset básico. Tailwind é carregado via CDN em index.html.
+*/
+
+/* Reset básico */
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
+body { margin: 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+/* Utility defaults */
+a { color: inherit; text-decoration: none; }
+img { display: block; max-width: 100%; height: auto; }
+
+/* Small helper for visually-hidden content */
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; }
+

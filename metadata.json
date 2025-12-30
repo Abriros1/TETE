@@ -1,0 +1,7 @@
+{
+  "name": "Yasmine F. Oliveira - Advocacia de Excelência",
+  "description": "Um site premium e profissional para a Dra. Yasmine F. Oliveira, apresentando áreas de atuação, perfil profissional e um assistente jurídico inteligente movido por IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

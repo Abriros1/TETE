@@ -1,0 +1,13 @@
+<svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo transparente (não definido, logo SVG terá transparência por padrão) -->
+
+  <!-- YFO Text - Dark Gray/Navy -->
+  <text x="500" y="420" font-family="'Playfair Display', serif" font-size="380" font-weight="700" text-anchor="middle" fill="#2C3E50">YFO</text>
+
+  <!-- YASMINE F. OLIVEIRA Text - Red -->
+  <text x="500" y="620" font-family="'Inter', sans-serif" font-size="80" font-weight="600" text-anchor="middle" fill="#D95970" letter-spacing="4">YASMINE F. OLIVEIRA</text>
+
+  <!-- Bottom decorative line -->
+  <line x1="150" y1="700" x2="850" y2="700" stroke="#D95970" stroke-width="8"/>
+</svg>
+
